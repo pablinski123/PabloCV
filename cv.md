@@ -3,7 +3,7 @@
     <title>Pablo Rejas</title>
 </head>
 <body>
-    <table class=cellspacing="40">
+    <table cellspacing="40">
         <tr>
     <td><img src="/cv.png" width="150" height="150" alt="pablo foto de perfil"></td>
     <td><h1>Pablo Curriculum</h1>
