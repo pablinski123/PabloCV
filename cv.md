@@ -3,15 +3,14 @@
     <title>Pablo Rejas</title>
 </head>
 <body>
-    
       <table cellspacing="40">
         <tr>
       <td><img src="cv.png" width="200" height="200" alt="pablo foto de perfil"></td>
       <td><h1>Pablo Curriculum</h1>
         <p>Mucho gusto mi nombre es Pablo un placer que este revisando mi CV dejeme contarle un poco de mi. Tengo 23 años hace 3 años empece con la programacion web, la cual me llamo la atencion asi que decidi aprender aprender un poco mas, soy muy autodidacta y creativo eso favorecio a que pueda ir obteniendo mucho conocimiento de las cosas que aprendi</p>
       </td></tr>
-    
-</table>
+    </table>
+</body>
 <main>
  <hr>
   <h2><strong>Educación</strong></h2>
