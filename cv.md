@@ -5,7 +5,7 @@
 <body>
     <table cellspacing="40">
         <tr>
-    <td><img src="/cv.png" width="150" height="150" alt="pablo foto de perfil"></td>
+    <td><img src="https://github.com/pablinski123/PabloCV3/blob/37076a08186a8382deaea635a49c8ffecac2b9d9/cv.png" width="150" height="150" alt="pablo foto de perfil"></td>
     <td><h1>Pablo Curriculum</h1>
         <p>Mucho gusto mi nombre es Pablo un placer que este revisando mi CV dejeme contarle un poco de mi. Tengo 22 años hace 2 años empece con la programacion web, la cual me llamo la atencion asi que decidi aprender aprender un poco mas, soy muy autodidacta y creativo eso favorrecio a que pueda ir obteniendo mucho conocimiento de las cosas que aprendi</p>
     </td></tr>
